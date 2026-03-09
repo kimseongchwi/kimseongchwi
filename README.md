@@ -19,12 +19,6 @@
 
 ---
 
-### 📈 Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kimseongchwi&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimseongchwi&layout=compact&theme=transparent)
-
----
-
 ### 💬 Contact
 - **Email**: `본인의 이메일 주소를 입력하세요`
 - **Blog**: `운영 중인 블로그가 있다면 링크를 넣어주세요`
