@@ -10,9 +10,9 @@
 | :--- | :--- |
 | **Frontend** | <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/nuxt.js-00C58E?style=flat-square&logo=nuxt.js&logoColor=white"> <img src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=next.js&logoColor=white"> |
 | **Backend** | <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/spring_boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"> |
-| **Database** | <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white"> |
+| **Database** | <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white"> |
 | **ORM** | <img src="https://img.shields.io/badge/prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"> <img src="https://img.shields.io/badge/sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white"> |
-| **Infra/DevOps** | <img src="https://img.shields.io/badge/google_cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white"> <img src="https://img.shields.io/badge/vercel-000000?style=flat-square&logo=vercel&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"> |
+| **Infra/DevOps** | <img src="https://img.shields.io/badge/google_cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white"> <img src="https://img.shields.io/badge/vercel-000000?style=flat-square&logo=vercel&logoColor=white"> |
 
 ---
 
